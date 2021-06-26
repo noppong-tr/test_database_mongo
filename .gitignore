@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# ignore file
+backup.txt
+ahoy_aggregate_example.zip
+docker-compose.yml.zip
+
+# ignore directory
+dump/
+backup/
+mongodb_data_volume/
